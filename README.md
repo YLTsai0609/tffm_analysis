@@ -21,4 +21,7 @@
 2. Create 2 environment for `tffm` and `tensor-fm` repectively by the `requirements` in the repo
 3. run the test in `tffm`,  `tensor-fm` repo
 4. [install sklearn nightly version](https://scikit-learn.org/stable/developers/advanced_installation.html) and jupyter notebook in your `tffm` environment.
+
+5. add environment variable `RECSYS_IM_HOME` as the project-home in your computer.
+
 5. Enjoy the ipynb :p
