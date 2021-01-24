@@ -1,6 +1,6 @@
 # Post
 
-[Medium post]
+[Medium post](https://yulongtsai.medium.com/factorization-machine-implementation-analysis-c6c6dd5affa)
 
 # Benchmark
 
