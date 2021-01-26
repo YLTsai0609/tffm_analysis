@@ -20,7 +20,7 @@
 1. Clone this repo and `tffm` (submodule)
 2. Create an environment for `tffm` repectively by the `requirements` in the repo
 3. Run the test in `tffm` to make sure everything is fine.
-4. [Install sklearn nightly version](https://scikit-learn.org/stable/developers/advanced_installation.html) `jupyter notebook`, [SciencePlots](https://pypi.org/project/SciencePlots/), and [lightgbm](https://pypi.org/project/lightgbm/) in your `tffm` environment.
+4. [Install sklearn nightly version](https://scikit-learn.org/stable/developers/advanced_installation.html) jupyter notebook, [SciencePlots](https://pypi.org/project/SciencePlots/), and [lightgbm](https://pypi.org/project/lightgbm/) in your `tffm` environment.
 
 5. Add environment variable `RECSYS_IM_HOME` as the project-home in your computer.
 
